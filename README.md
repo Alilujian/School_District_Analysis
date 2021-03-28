@@ -19,10 +19,10 @@ The ninth grade reading and math scores will be replaced as "NAN". There are a t
 ![Bottom_School](results/Bottom_School.png)
 
 ### Average Math Scores by Grade
-![Math_score](results/Math_score.png)
+![Math_score](results/math_score.png)
 
 ### Average Reading Scores by Grade
-![Reading_score](results/Reading_score.png)
+![Reading_score](results/reading_score.png)
 
 ### School Spending
 ![Spending](results/Spending.png)
