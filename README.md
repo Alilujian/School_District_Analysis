@@ -39,6 +39,8 @@ The ninth grade reading and math scores will be replaced as "NAN". There are a t
 * The top five performing schools are still the same. The Thomas High School data has slightly changed as mentioned above.
 * The lowest five performing schools remain the same.
 * Grade ninth average score for Thomas High Shcool has been replaced by "NaN".
-* Results from school spending, school size, school type are the same prior to the replacement
+* According to the school spending summary, in the $630 - 644 speidng range, there were 6% decrease in percentage passing math, and a 7% drop in percentage passing reading. The overall passing percentage has dropped by about 6% as well.
+* From the school size summary, the replacement did not affect the average math and reading scores. The passing percentages for medium-sized schools has dropped by 6% in math, reading and overall passing.
+* From the school type summary, the grade change did not affect the average math and reading scores. The passing percentages for charter school has dropped. Before the data change, the charter school has 94% passing math, 97% passing reading, and 90% overall passing. After the replacement, the charter school has 90% passing math, 93% passing reading, and 87% overall passing.
 ## Summary
-In general, the replacement of incorrect grade lead to the decrease in passing percentage. The change is not signifiant to impact the school ranking compare to other schools in the same district.
+In general, the replacement of incorrect grade lead to the decrease in passing percentage. The change is not significant to impact the school ranking compare to other schools in the same district. However, the data replacement does impact the performance when considering the shcool spending, size, and school type.
